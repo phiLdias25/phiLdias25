@@ -12,6 +12,8 @@ Sou estudante de Economia no Insper, com grande interesse em Ciência de Dados e
 ![RStudio](https://img.shields.io/badge/RStudio-%234675A9.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # 📊 Minhas Estatísticas no Github:
 ![](https://github-readme-stats.vercel.app/api?username=phiLdias25&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
