@@ -24,6 +24,6 @@ Sou estudante de Economia no Insper, com grande interesse em Ciência de Dados e
 [![Philipe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phiLdias25&bg_color=0d1117&color=ffffff&line=5468FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🏆 Minhas Conquistas dentro do Github
+## 🏆 Minhas conquistas dentro do Github
 ![](https://github-profile-trophy.vercel.app/?username=phiLdias25&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
