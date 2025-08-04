@@ -1,6 +1,6 @@
 # Hi, I’m Philipe! :wave:
 
-Sou estudante de Economia no Insper, com grande interesse em Ciência de Dados e Estatística!
+Sou estudante de Mestrado em Economia na FEA-RP, com grande interesse em Ciência de Dados e Estatística!
 
 - :dart: Atualmente, estou terminando minha graduação e focado em começar um mestrado em Economia ou Estatística
 - :ledger: Estou aprendendo SQL, Power BI e aperfeiçoando meus conhecimentos em R e Python
