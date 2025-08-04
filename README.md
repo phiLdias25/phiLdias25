@@ -2,8 +2,8 @@
 
 Sou estudante de Mestrado em Economia na FEA-RP, com grande interesse em Ciência de Dados e Estatística!
 
-- :dart: Atualmente, estou terminando minha graduação e focado em começar um mestrado em Economia ou Estatística
-- :ledger: Estou aprendendo SQL, Power BI e aperfeiçoando meus conhecimentos em R e Python
+- :dart: Atualmente, estou no segundo semestre do mestrado, cursando matérias focadas em microeconometria aplicada.
+- :ledger: Estou buscando expandir meus conhecimentos sobre R e analisando como os aplicarei à minha dissertação!
 
 
 # 💻 Linguagens:
