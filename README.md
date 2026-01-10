@@ -2,8 +2,8 @@
 
 Sou estudante de Mestrado em Economia na FEA-RP, com grande interesse em Ciência de Dados e Estatística!
 
-- :dart: Atualmente, estou no segundo semestre do mestrado, cursando matérias focadas em microeconometria aplicada.
-- :ledger: Estou buscando expandir meus conhecimentos sobre R e analisando como os aplicarei à minha dissertação!
+- :dart: Atualmente, estou no segundo ano do mestrado, cursando matérias focadas em microeconometria aplicada.
+- :ledger: Estou buscando expandir meus conhecimentos sobre ferramentas de econometria e estudos urbanos no R e analisando como os aplicarei à minha dissertação!
 
 
 # 💻 Linguagens:
