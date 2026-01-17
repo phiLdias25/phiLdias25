@@ -14,16 +14,3 @@ Sou estudante de Mestrado em Economia na FEA-RP, com grande interesse em Ciênci
 ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-# 📊 Minhas Estatísticas no Github:
-![](https://github-readme-stats.vercel.app/api?username=phiLdias25&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=phiLdias25&theme=github_dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phiLdias25&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# :chart_with_upwards_trend:	Gráfico da minha atividade no GitHub:
-[![Philipe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phiLdias25&bg_color=0d1117&color=ffffff&line=5468FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-## 🏆 Minhas conquistas dentro do Github
-![](https://github-profile-trophy.vercel.app/?username=phiLdias25&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
